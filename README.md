@@ -1,0 +1,3 @@
+# bind
+angularjs binding data 
+=================================
