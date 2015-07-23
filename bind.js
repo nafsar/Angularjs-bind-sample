@@ -1,4 +1,5 @@
 	//'use strict';
+
 var app = angular.module('myApp',[]);
 app.controller('cartCtrl', ['$scope',function($scope) {
 	$scope.username = 'World'; 
